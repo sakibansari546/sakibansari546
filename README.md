@@ -9,9 +9,9 @@ I am a web developer with experience in both frontend and backend technologies. 
 - **Name:** Sakib
 - **Current Focus:** Social Media Project
 - **Technologies I Use:**
-  - **Frontend:** React, Tailwind CSS, GSAP
+  - **Frontend:** React, zustand,Tailwind CSS, Framer Motion
   - **Backend:** Node.js, Express, MySQL, MongoDB
-  - **Authentication:** JWT, bcrypt, Nodemailer
+  - **Authentication:** JWT, bcrypt, Mailtrap
 - **Learning Path:** Continuously expanding my knowledge and skills in web development.
 
 ## Projects
