@@ -17,9 +17,9 @@ I'm a Full Stack Web Developer specializing in the MERN stack, with a strong foc
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sakib-ansari-61388326b/)
-- **Twitter:** [@yourhandle](https://x.com/Sakib_654)
-- **Portfolio:** [yourwebsite.com](sakibdev-swart.vercel.app)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/sakib-ansari-61388326b/)
+- **Twitter:** [Sakib_654](https://x.com/Sakib_654)
+- **Portfolio:** [Sakib.dev](sakibdev-swart.vercel.app)
 
 ## GitHub Tools & Stats
 **GitHub Stats:**
