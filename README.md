@@ -1,26 +1,53 @@
-# Hi there, I'm Sakib! 👋
+<div>
 
-## 🚀 About Me
-- 💻 Full Stack Developer | MERN Stack Enthusiast
-- 🎨 Love crafting smooth UI/UX with Tailwind CSS & GSAP Animations
-- 🔥 Passionate about building scalable web apps
-- 🎥 Exploring content creation alongside coding
+![Visitor Count](https://profile-counter.glitch.me/StarKnightt/count.svg)
 
-## 🛠 Tech Stack
-- **Frontend:** React, Redux Toolkit, Tailwind CSS, GSAP
-- **Backend:** Node.js, Express.js, MongoDB, MySQL
-- **Other Tools:** Zustand, Nodemailer, Multer, Cloudinary
 
-## 🌍 Connect with Me
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
-## 📊 GitHub Stats
-![Sakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+[![wakatime](https://wakatime.com/badge/user/d27d27da-dc32-4c1b-a703-f654f4050105.svg)](https://wakatime.com/@d27d27da-dc32-4c1b-a703-f654f405010)
 
-## 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
+</div>  
 
----
-🔥 Always learning & building cool stuff!
+## Code Time : 
+<!--START_SECTION:waka-->
+
+```txt
+From: 04 June 2023 - To: 10 March 2025
+
+Total Time: 616 hrs 47 mins
+
+JavaScript        244 hrs 56 mins █████████▓░░░░░░░░░░░░░░░   39.19 %
+CSS               105 hrs 21 mins ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
+HTML              99 hrs 20 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+TypeScript        95 hrs 37 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+Markdown          24 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+```
+
+<!--END_SECTION:waka-->
+
+## Latest Blog Posts
+<!-- BLOG-POSTS:START -->
+- [Understanding Next.js: A Simple Guide to the Popular React Framework](https://github.com/StarKnightt/prasendev/blog/next-js-workflow)
+- [Tailwind CSS 4.0 - New changes](https://github.com/StarKnightt/prasendev/blog/tailwindcss-4.0)
+- [Web Development for 2025: A Guide to What's Next](https://github.com/StarKnightt/prasendev/blog/web-development-2025)
+
+➡️ [Read more blog posts](https://prasen.dev/blog)
+<!-- BLOG-POSTS:END -->
+
+## Account Status:
+<details>
+  
+[![StarKnightt's GitHub | Stats](https://stats.quira.sh/StarKnightt/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=StarKnightt)
+
+</details>
+
+## Skills - Language and tools
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,nodejs,expressjs,mongo,typescript,next,tailwind,pug,git,github,vscode,linux,discord&theme=light)](https://skillicons.dev)
+<!--social stats -->
+
+<a href="https://www.buymeacoffee.com/prasen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 216px !important;" ></a>
+
+## Let's connect -
+- 💼 Social Accounts: [Prasenjit Nayak](https://prasen.dev) <br>
+
+<!-- End of the README files :) --!>
