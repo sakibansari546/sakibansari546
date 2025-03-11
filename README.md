@@ -1,53 +1,46 @@
-<div>
+# Hi there, I'm Sakib! 👋
 
-![Visitor Count](https://profile-counter.glitch.me/StarKnightt/count.svg)
+## About Me
+I'm a Full Stack Web Developer specializing in the MERN stack, with a strong focus on backend development. I'm passionate about crafting scalable web applications and am currently on a mission to master **Next.js**, **TypeScript**, **Redis**, **Kafka**, and **AWS**.
 
+## Tech Stack & Tools
+**Languages & Frameworks:**
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge)
+![React](https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![wakatime](https://wakatime.com/badge/user/d27d27da-dc32-4c1b-a703-f654f4050105.svg)](https://wakatime.com/@d27d27da-dc32-4c1b-a703-f654f405010)
+## Connect with Me
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sakib-ansari-61388326b/)
+- **Twitter:** [@yourhandle](https://x.com/Sakib_654)
+- **Portfolio:** [yourwebsite.com](sakibdev-swart.vercel.app)
 
-</div>  
+## GitHub Tools & Stats
+**GitHub Stats:**
 
-## Code Time : 
-<!--START_SECTION:waka-->
+![Sakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakibansari546&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibansari546&layout=compact&theme=radical)
 
-```txt
-From: 04 June 2023 - To: 10 March 2025
+**Wakatime Stats:**
 
-Total Time: 616 hrs 47 mins
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakibansari546)](https://wakatime.com/@sakibansari546)
 
-JavaScript        244 hrs 56 mins █████████▓░░░░░░░░░░░░░░░   39.19 %
-CSS               105 hrs 21 mins ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-HTML              99 hrs 20 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-TypeScript        95 hrs 37 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
-Markdown          24 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-```
+**Code Time:**
 
-<!--END_SECTION:waka-->
+[![Code Time](http://img.shields.io/badge/Code%20Time-Tracking-blue)](https://codetime.dev)
 
-## Latest Blog Posts
-<!-- BLOG-POSTS:START -->
-- [Understanding Next.js: A Simple Guide to the Popular React Framework](https://github.com/StarKnightt/prasendev/blog/next-js-workflow)
-- [Tailwind CSS 4.0 - New changes](https://github.com/StarKnightt/prasendev/blog/tailwindcss-4.0)
-- [Web Development for 2025: A Guide to What's Next](https://github.com/StarKnightt/prasendev/blog/web-development-2025)
+## A Bit About Me
+- 🔥 Passionate about coding and continually pushing myself to learn new technologies.
+- 🎯 Focused on honing my backend skills while leveraging the power of the MERN stack.
+- 💡 Always seeking new challenges to grow and evolve as a developer.
+- 🚀 On a mission to not only build innovative applications but also share my journey with the community.
 
-➡️ [Read more blog posts](https://prasen.dev/blog)
-<!-- BLOG-POSTS:END -->
+---
 
-## Account Status:
-<details>
-  
-[![StarKnightt's GitHub | Stats](https://stats.quira.sh/StarKnightt/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=StarKnightt)
-
-</details>
-
-## Skills - Language and tools
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,nodejs,expressjs,mongo,typescript,next,tailwind,pug,git,github,vscode,linux,discord&theme=light)](https://skillicons.dev)
-<!--social stats -->
-
-<a href="https://www.buymeacoffee.com/prasen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 216px !important;" ></a>
-
-## Let's connect -
-- 💼 Social Accounts: [Prasenjit Nayak](https://prasen.dev) <br>
-
-<!-- End of the README files :) --!>
+**Always learning, always evolving.**
