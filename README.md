@@ -19,7 +19,7 @@ I'm a Full Stack Web Developer specializing in the MERN stack, with a strong foc
 ## Connect with Me
 - **LinkedIn:** [Linkedin](https://www.linkedin.com/in/sakib-ansari-61388326b/)
 - **Twitter:** [Sakib_654](https://x.com/Sakib_654)
-- **Portfolio:** [Sakib.dev](sakibdev-swart.vercel.app)
+- **Portfolio:** [Sakib.dev](https://sakibdev-swart.vercel.app)
 
 ## GitHub Tools & Stats
 **GitHub Stats:**
